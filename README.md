@@ -34,6 +34,16 @@ A JavaFX user interface for the Calories Calculator application. The interface i
 | Разход на калории в храната | Food calorie intake |
 | Максимум калории дневно... | Maximum daily calories for weight loss |
 
+## 🛠️ Built With
+- **Java** - Core programming language
+- **JavaFX** - GUI framework for desktop applications
+- **SceneBuilder** - Visual layout tool for FXML
+- **IntelliJ IDEA** - Integrated development environment
+
+###   Prerequisites
+- Java JDK 11 or higher
+- JavaFX SDK
+
 ## 🚀 How to Run
 1. Clone this repository
 2. Add `calories_calculator.jar` (in `lib/` folder) to project build path
