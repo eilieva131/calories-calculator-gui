@@ -2,7 +2,7 @@
 
 A JavaFX user interface for the Calories Calculator application. The interface is in **Bulgarian**.
 
-## 📱 Features
+## Features
 - Input personal data (weight, height, age, gender)
 - Select activity level (1-5)
 - Add exercise calories
@@ -10,11 +10,11 @@ A JavaFX user interface for the Calories Calculator application. The interface i
 - Calculate calories for weight loss
 - Load data from text files
 
-## 🖼️ Screenshot
+## Screenshot
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/de122400-16f9-4fc1-8632-d3ebd3d5b6c0" />
 
-## 🖥️ Interface Elements
+## Interface Elements
 
 | Bulgarian | English |
 |-----------|---------|
@@ -34,17 +34,17 @@ A JavaFX user interface for the Calories Calculator application. The interface i
 | Разход на калории в храната | Food calorie intake |
 | Максимум калории дневно... | Maximum daily calories for weight loss |
 
-## 🛠️ Built With
+## Built With
 - **Java** - Core programming language
 - **JavaFX** - GUI framework for desktop applications
 - **SceneBuilder** - Visual layout tool for FXML
 - **IntelliJ IDEA** - Integrated development environment
 
-###   Prerequisites
+### Prerequisites
 - Java JDK 11 or higher
 - JavaFX SDK
 
-## 🚀 How to Run
+## How to Run
 1. Clone this repository
 2. Add `calories_calculator.jar` (in `lib/` folder) to project build path
 3. Run `JavaFxApp.java`
